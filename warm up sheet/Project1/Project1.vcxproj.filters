@@ -18,5 +18,8 @@
     <ClCompile Include="humongous.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="quintomania.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
