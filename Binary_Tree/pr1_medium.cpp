@@ -1,4 +1,4 @@
-class Solution {
+ class Solution {
 public:
 vector<vector<int>>res;
 void handleNode(TreeNode* node,int level)
